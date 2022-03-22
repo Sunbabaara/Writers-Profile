@@ -70,7 +70,7 @@ if(loading){
       )}
       </div>
       </div>
-    )
+    );
   }
 }
 export default App;
